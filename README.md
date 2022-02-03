@@ -6,6 +6,12 @@ An example of app development with Flutter.
 - Product
 - Cart
 
+## Photos
+<img src="screenshot/1.png" width="400">
+<img src="screenshot/2.png" width="400">
+<img src="screenshot/3.png" width="400">
+<img src="screenshot/4.png" width="400">
+
 ## Installation
 This project requires [Flutter](https://flutter.dev) v2.5.1+ to run.
 1. Get Flutter [here](https://flutter.dev) if you don't already have it
@@ -19,11 +25,6 @@ flutter run-android
 "or"
 flutter run-ios
 ```
-## Photos
-<img src="screenshot/1.png" width="400">
-<img src="screenshot/2.png" width="400">
-<img src="screenshot/3.png" width="400">
-<img src="screenshot/4.png" width="400">
 
 ## Designed by
 https://www.behance.net/gallery/128321097/Amazon-Redesign-Concept-Mobile-App/modules/727546317
