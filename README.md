@@ -1,7 +1,7 @@
 # E-Commerce App - Flutter UI
 An example of app development with Flutter.
 
-## Screens it contains:
+## Screens
 - Home
 - Product
 - Cart
@@ -19,3 +19,8 @@ flutter run-android
 "or"
 flutter run-ios
 ```
+## Photos
+-
+
+## Designed by
+https://www.behance.net/gallery/128321097/Amazon-Redesign-Concept-Mobile-App/modules/727546317
